@@ -6,6 +6,11 @@ body{
     background: black;
 }
 
+.wrapper{
+    text-align: center;
+    background: linear-gradient(#a3a3ff, #bfbfff);
+}
+
 .logo img{
     width: 80%;
     
@@ -77,4 +82,9 @@ body{
     padding: 10px;
     cursor: pointer;
     width: 100%;
+}
+
+.accMsg{
+    font-weight: bold;
+    
 }
