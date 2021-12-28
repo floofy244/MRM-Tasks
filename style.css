@@ -7,8 +7,13 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    background: url(images/rover\ 2.jpg) repeat-y;
-    background-size: cover;
+    height: 100%;
+	width: 100%;
+	margin: auto;
+	background: url(images/rover\ 2.jpg) no-repeat 50% 50%;
+	background-size: cover;
+	display: table;
+	top: 0;
     
 
 
